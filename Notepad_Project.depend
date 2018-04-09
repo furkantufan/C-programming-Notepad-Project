@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523287986 source:c:\users\furkan_tufan\desktop\notepad_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
